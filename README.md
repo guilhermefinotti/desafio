@@ -25,7 +25,7 @@ INSERT INTO public.usuario(email, nome, senha)
 
 => ATENÇÃO: a senha está criptografada! <br>
 Ao acessar o sistema, utilizar as seguintes credenciais: <br>
-Email=teste@frwk.com.br<br>
+Email=joao@frwk.com.br<br>
 Senha=123<br>
 
 ############################### <br>
